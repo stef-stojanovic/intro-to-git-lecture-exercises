@@ -6,7 +6,7 @@
 | Maruf        |               |
 | Roy          |               |
 | Stefan Sce.  |               |
-| Stefan Stro. |               |
+| Stefan Stoj. |Barbacoa tacos |
 | Patrick      |               |
 | Hans         |               |
 | Hermann      |               |
